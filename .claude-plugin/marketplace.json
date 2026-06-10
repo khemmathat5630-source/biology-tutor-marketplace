@@ -17,6 +17,12 @@
       "description": "Analyzes living systems and biological phenomena through evolution, molecular biology, ecology, and systems biology frameworks. Use for biological systems, health issues, evolutionary questions, ecological problems, and biotechnology.",
       "source": "./plugins/biologist-analyst",
       "category": "education"
+    },
+    {
+      "name": "english-learner",
+      "description": "English language learning tutor for grammar, vocabulary, conversation, pronunciation, writing, sentence correction, and exam prep (IELTS/TOEIC). Helpful for Thai speakers learning English.",
+      "source": "./plugins/english-learner",
+      "category": "education"
     }
   ]
 }
