@@ -1,0 +1,10 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "biologist-analyst",
+  "description": "Analyzes living systems and biological phenomena through evolution, molecular biology, ecology, and systems biology frameworks. Use for biological systems, health issues, evolutionary questions, ecological problems, and biotechnology.",
+  "version": "1.0.0",
+  "author": {
+    "name": "rysweet"
+  },
+  "homepage": "https://github.com/rysweet/amplihack"
+}

@@ -11,6 +11,12 @@
       "description": "Biology subject expertise for study notes, problem-solving, and explanations. Covers cell biology, genetics, ecology, anatomy, and evolution.",
       "source": "./plugins/biology-tutor",
       "category": "education"
+    },
+    {
+      "name": "biologist-analyst",
+      "description": "Analyzes living systems and biological phenomena through evolution, molecular biology, ecology, and systems biology frameworks. Use for biological systems, health issues, evolutionary questions, ecological problems, and biotechnology.",
+      "source": "./plugins/biologist-analyst",
+      "category": "education"
     }
   ]
 }
